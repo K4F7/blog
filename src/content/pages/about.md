@@ -1,6 +1,6 @@
 ---
-title: "About"
-description: "About K4F7 and this blog."
+title: "关于"
+description: "关于 K4F7 和这个博客。"
 ---
 
 这里是 K4F7 的个人博客，用来记录技术笔记、项目经验和一些长期值得回看的想法。

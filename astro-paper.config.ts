@@ -4,7 +4,7 @@ export default defineAstroPaperConfig({
   site: {
     url: "https://k4f7.github.io/",
     title: "K4F7's Blog",
-    description: "Notes, essays, and technical writing by K4F7.",
+    description: "K4F7 的技术笔记、项目记录和长期写作。",
     author: "K4F7",
     profile: "https://github.com/K4F7",
     ogImage: "default-og.jpg",
@@ -29,7 +29,11 @@ export default defineAstroPaperConfig({
     search: "pagefind",
   },
   socials: [
-    { name: "github", url: "https://github.com/K4F7" },
+    {
+      name: "github",
+      url: "https://github.com/K4F7",
+      linkTitle: "在 GitHub 上查看 K4F7",
+    },
   ],
   shareLinks: [
     { name: "whatsapp", url: "https://wa.me/?text=" },
