@@ -1,3 +1,10 @@
 allowBuilds:
   esbuild: true
   sharp: true
+
+minimumReleaseAge: 1440
+
+# Keep transitive dependencies on patched versions until upstream ranges catch up.
+overrides:
+  "fflate@>=0.7.0 <0.7.5": 0.7.5
+  "postcss-selector-parser@<7.1.6": 7.1.6
