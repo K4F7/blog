@@ -3,9 +3,9 @@ import { defineAstroPaperConfig } from "./src/types/config";
 export default defineAstroPaperConfig({
   site: {
     url: "https://blog.sein.moe/",
-    title: "K4F7's Blog",
-    description: "K4F7 的技术笔记、项目记录和长期写作。",
-    author: "K4F7",
+    title: "sein’s blog",
+    description: "sein 的技术笔记、项目记录和长期写作。",
+    author: "sein",
     profile: "https://github.com/K4F7",
     ogImage: "default-og.jpg",
     lang: "zh-CN",
