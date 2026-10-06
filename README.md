@@ -1,6 +1,6 @@
-# K4F7.github.io
+# K4F7 Blog
 
-Personal blog built with [AstroPaper](https://github.com/satnaing/astro-paper) and deployed to GitHub Pages at https://k4f7.github.io/.
+Personal blog built with [AstroPaper](https://github.com/satnaing/astro-paper) and deployed to GitHub Pages at https://blog.sein.moe/.
 
 ## Commands
 

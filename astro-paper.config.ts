@@ -2,7 +2,7 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://k4f7.github.io/",
+    url: "https://blog.sein.moe/",
     title: "K4F7's Blog",
     description: "K4F7 的技术笔记、项目记录和长期写作。",
     author: "K4F7",
@@ -24,7 +24,7 @@ export default defineAstroPaperConfig({
     showBackButton: true,
     editPost: {
       enabled: true,
-      url: "https://github.com/K4F7/K4F7.github.io/edit/main/",
+      url: "https://github.com/K4F7/blog/edit/main/",
     },
     search: "pagefind",
   },
